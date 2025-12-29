@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AEON ✦ The Ring of Tomorrow
 
-## Getting Started
+> **"The first wearable forged from liquid sapphire."**
 
-First, run the development server:
+![Project Preview](./preview.png)
+*(Save your screenshot as 'preview.png' in the public folder or root!)*
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✧ Concept
+**AEON** is a concept landing page for a futuristic smart wearable. Crafted from a proprietary glass-ceramic composite, the ring feels weightless while offering advanced biometric tracking. The site uses 3D rendering to showcase the liquid sapphire finish in real-time.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
+* **Framework:** Next.js (React)
+* **3D Engine:** React Three Fiber (R3F) & Drei
+* **Styling:** Tailwind CSS
+* **Animation:** GSAP / Framer Motion
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💎 Features
+* **Interactive 3D Model:** Real-time rendering of the ring with material nuances.
+* **Liquid Physics:** Custom shaders simulating the "liquid sapphire" texture.
+* **Modern UI:** Minimalist interface with high-contrast typography.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Getting Started
 
-## Learn More
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/your-username/aeon-ring.git](https://github.com/your-username/aeon-ring.git)
+    ```
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
+3.  Run the development server:
+    ```bash
+    npm run dev
+    ```
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Forged by [Your Name]*
