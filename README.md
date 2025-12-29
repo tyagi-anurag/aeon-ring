@@ -3,7 +3,7 @@
 > **"The first wearable forged from liquid sapphire."**
 
 ![Project Preview](./preview.png)
-*(Save your screenshot as 'preview.png' in the public folder or root!)*
+
 
 ## ✧ Concept
 **AEON** is a concept landing page for a futuristic smart wearable. Crafted from a proprietary glass-ceramic composite, the ring feels weightless while offering advanced biometric tracking. The site uses 3D rendering to showcase the liquid sapphire finish in real-time.
@@ -35,4 +35,4 @@
     ```
 
 ---
-*Forged by [Your Name]*
+*Forged by Anurag Tyagi*
